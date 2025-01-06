@@ -107,8 +107,18 @@ public class WelcomerTest {
 15. Убедитесь, что нет собранного артефакта в сборке по ветке `master`.
 16. Настройте конфигурацию так, чтобы она собирала `.jar` в артефакты сборки.
 17. Проведите повторную сборку мастера, убедитесь, что сбора прошла успешно и артефакты собраны.
+
+![Screen6](https://github.com/megasts/09-ci-05-teamcity/blob/main/img/2025-01-06_17-47-08.png)
+
+![Screen6](https://github.com/megasts/09-ci-05-teamcity/blob/main/img/2025-01-06_17-48-37.png)
+
 18. Проверьте, что конфигурация в репозитории содержит все настройки конфигурации из teamcity.
+
+[Ссылка на конфигурацию](https://github.com/megasts/example-teamcity/tree/master/.teamcity/NetologyTeamcity)
+
 19. В ответе пришлите ссылку на репозиторий.
+
+[Ссылка на репозиторий](https://github.com/megasts/example-teamcity)
 
 ---
 
